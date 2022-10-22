@@ -10,14 +10,14 @@ export const greetings = {
 };
 
 export const openSource = {
-  githubUserName: 'https://www.linkedin.com/in/oki-seiichi-3a9630254/',
+  githubUserName: 'https://github.com/OkiSeiichi-King',
 };
 
 export const contact = {};
 
 export const socialLinks = {
   // url: 'https://1hanzla100.github.io/',
-  linkedin: 'https://www.linkedin.com/in/1hanzla100/',
+  linkedin: 'https://www.linkedin.com/in/oki-seiichi-ninja/',
   github: 'https://github.com/OkiSeiichi-King/',
   // instagram: 'https://www.instagram.com/__hanzla100',
   // facebook: 'https://www.facebook.com/1hanzla100',
@@ -217,7 +217,7 @@ export const experience = [
     company: 'Souco company',
     companylogo: '/img/icons/common/souco.webp',
     date: 'Apr 2018 – Jun 2020',
-    desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using React, Redux, Typescript, Three.js and some other libraries.',
+    desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using React, Redux, Typescript, Three.js and some other libraries.Used React.js , Node.js and MongoDB to build RESTful APIs for video chat project for client and developed Game Communify project using Next.js and Ruby or Rails.I tried to have good skills in Laravel and AngularJS, and developed online shopping project using Angular and Laravel',
   },
   {
     role: 'Blockchain/FullStack Developer',
@@ -225,10 +225,6 @@ export const experience = [
     companylogo: '/img/icons/common/vvelocity.jfif',
     date: 'Jan 2020 – Mar 2022',
     desc: 'I worked as Blockchain/FullStack Developer on a POSHMARK. POSHMARK is a MarketPlace for the productions. I built Fully Optimized and High Performance RESTful APIs using Ruby on Rails, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions. And I make front-end by using react. And I implemented the transaction by using Ethereum.',
-    // descBullets: [
-    // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-    // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    // ],
   },
 ];
 
@@ -240,14 +236,16 @@ export const projects = [
     link: 'https://poshmark.com/',
   },
   {
-    name: 'ArticleBlogBot',
-    desc: 'With Ruby on Rails.',
-    github: 'https://github.com/OkiSeiichi-King/CrudRubyonrails',
+    name: 'MarketPlace',
+    desc: 'With Blockchain and smart contract',
+    github: 'https://github.com/OkiSeiichi-King/martketplaceD',
+    link: 'https://market.decentraland.org/',
   },
   {
-    name: 'Landing Page for WEB3',
-    desc: 'Get hands-on experience in technical skills with Technota',
-    github: 'https://github.com/OkiSeiichi-King/landing-page-bootstrap',
+    name: 'BookBash',
+    desc: 'This is MEANStack Pages',
+    link: 'https://bookingbash.com/',
+    github: 'https://github.com/OkiSeiichi-King/BookBash',
   },
   {
     name: 'NFT-MarketPlace',
@@ -263,9 +261,9 @@ export const feedbacks = [
       'Great work, thank you! You  was great to work with and did what I asked. Great communication. Timely replies. Attention to detail with great creativity He is the best guy. Always prompt and have never had an issue with their work.',
   },
   {
-    name: 'Dannis Steppens',
+    name: 'Dennis Stephen',
     feedback:
-      " Very detailed in terms of making sure client's projects are fulfilled and working correctly. Thank yo.",
+      "Very detailed in terms of making sure client's projects are fulfilled and working correctly. Since I met you, my work has been very successful. I wish I work with you still. Thank you very much.",
   },
 ];
 
