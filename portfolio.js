@@ -6,7 +6,7 @@ export const greetings = {
   description:
     "I'm passionate Full Stack web developer having an experience of web applications with Angular, Ruby, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
   resumeLink:
-    'https://drive.google.com/file/d/1ECJpzYKD_j5qZ_ulJpk6XWXV5-RF9HT3/view?usp=sharing',
+    'https://drive.google.com/file/d/1t8zdrUR5XGJ4s9mxU-wA6CXLsinmZRMn/view',
 };
 
 export const openSource = {
@@ -230,6 +230,11 @@ export const experience = [
 
 export const projects = [
   {
+    name: 'Koda-NFT-Project',
+    desc: 'Backend Developer && Team Workstation',
+    link: 'http://kodaoverfest.com/',
+  },
+  {
     name: 'PoshMark',
     desc: 'Posh Mark built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
     github: 'https://github.com/GoshPosh',
@@ -246,11 +251,6 @@ export const projects = [
     desc: 'This is MEANStack Pages',
     link: 'https://bookingbash.com/',
     github: 'https://github.com/OkiSeiichi-King/BookBash',
-  },
-  {
-    name: 'NFT-MarketPlace',
-    desc: 'Solidity & React',
-    github: 'https://github.com/OkiSeiichi-King/nft-marketplace-test-now',
   },
 ];
 
